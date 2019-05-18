@@ -1,7 +1,7 @@
 # インストールした discord.py を読み込む
 import discord
 
-TOKEN = 3yDT3mrUJYhGopVZuPeMp7VguEVIzAGN
+TOKEN = "NTc5MDk1NDA0Mjk4MTA4OTMz.XN9WFg.arHBbim5fUOqWHfS4JZb6_2fgmU"
 
 # 接続に必要なオブジェクトを生成
 client = discord.Client()
